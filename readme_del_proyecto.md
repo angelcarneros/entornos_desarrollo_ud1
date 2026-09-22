@@ -1,4 +1,4 @@
-# Tarea de Evaluación Práctica (UD 1) - Ángel Carneros Canales
+# Tarea de Evaluación Práctica (UD 1)
 
 ## Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
