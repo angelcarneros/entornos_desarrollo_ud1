@@ -1,4 +1,4 @@
-# Tarea de Evaluación Práctica (UD 1)
+# Tarea de Evaluación Práctica (UD 1) - COMPAÑEROS
 
 ## Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
